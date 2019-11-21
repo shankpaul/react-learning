@@ -1,0 +1,1440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"React",
+				"ReactComponent\tnode_modules/*.svg"
+			],
+			[
+				"re",
+				"refs\tReact: this.refs."
+			],
+			[
+				"Ma",
+				"MapDispatchToProps"
+			],
+			[
+				"map",
+				"MapStatetoProps"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lin",
+				"addLinks"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"handle",
+				"handleSignIn"
+			],
+			[
+				"session",
+				"session_id"
+			],
+			[
+				"ris",
+				"risk_id_field"
+			],
+			[
+				"tra",
+				"trait"
+			],
+			[
+				"allo",
+				"allow_any_instance_of"
+			],
+			[
+				"eni",
+				"entityuniqueids"
+			],
+			[
+				"enti",
+				"entityuniqueid"
+			],
+			[
+				"matc",
+				"match_id"
+			],
+			[
+				"ca",
+				"calculate_red_flag_for_retail"
+			],
+			[
+				"cal",
+				"calculate_red_flag_for_commercial"
+			],
+			[
+				"match",
+				"match_grade"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"new",
+				"new_pmml_red_flags"
+			],
+			[
+				"pmml",
+				"pmml_red_flags"
+			],
+			[
+				"source",
+				"source_name"
+			],
+			[
+				"red",
+				"red_flag_overrides"
+			],
+			[
+				"disc",
+				"discounted"
+			],
+			[
+				"tog",
+				"toggle-risk"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"with",
+				"with_indifferent_access"
+			],
+			[
+				"cu",
+				"current_item"
+			],
+			[
+				"curr",
+				"current_item"
+			],
+			[
+				"for",
+				"for_pmml_flags"
+			],
+			[
+				"have",
+				"have_css"
+			],
+			[
+				"ha",
+				"hash_array"
+			],
+			[
+				"ex",
+				"existing_flag"
+			],
+			[
+				"red_",
+				"red_flags"
+			],
+			[
+				"old",
+				"old_flag"
+			],
+			[
+				"ol",
+				"old_flag"
+			],
+			[
+				"red_fl",
+				"red_flag"
+			],
+			[
+				"rea",
+				"real_time"
+			],
+			[
+				"find",
+				"find_red_flag"
+			],
+			[
+				"risk",
+				"risk_data"
+			],
+			[
+				"rs",
+				"risk"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"user",
+				"user_email"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"fi",
+				"filtered"
+			],
+			[
+				"tg",
+				"toggler_element"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"repor",
+				"report_hash"
+			],
+			[
+				"up",
+				"update_report_data"
+			],
+			[
+				"reoprt",
+				"report"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"vok",
+				"vertical_okyc_latest"
+			],
+			[
+				"enha",
+				"enhance_report"
+			],
+			[
+				"alert",
+				"alert_ids"
+			],
+			[
+				"be",
+				"belogs_to"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"rec",
+				"Record"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"Com",
+				"Company"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"Rea",
+				"RealTimeScreeningController"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"click",
+				"click_link_or_button"
+			],
+			[
+				"lex",
+				"lexis_data_params"
+			],
+			[
+				"add",
+				"address_line_1"
+			],
+			[
+				"create",
+				"createRow"
+			],
+			[
+				"D",
+				"Discounted"
+			],
+			[
+				"mi",
+				"minutes"
+			],
+			[
+				"User",
+				"Users"
+			],
+			[
+				"Se",
+				"SearchBar"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"pmm",
+				"pmml_risk_ids"
+			],
+			[
+				"save_",
+				"save_and_open_page"
+			],
+			[
+				"develop",
+				"development"
+			],
+			[
+				"vertic",
+				"vertical_okyc"
+			],
+			[
+				"var",
+				"var_file"
+			],
+			[
+				"open",
+				"open_reprot_edit_page"
+			],
+			[
+				"custom",
+				"customer_entity_risk"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"pro",
+				"product_risk"
+			],
+			[
+				"prod",
+				"product_name"
+			],
+			[
+				"permi",
+				"permitted_params"
+			],
+			[
+				"per",
+				"permitted_params"
+			],
+			[
+				"pem",
+				"permissable"
+			],
+			[
+				"down",
+				"download_items"
+			],
+			[
+				"searc",
+				"search_params"
+			],
+			[
+				"in",
+				"include_external"
+			],
+			[
+				"disable",
+				"disabled"
+			],
+			[
+				"com",
+				"company_data"
+			],
+			[
+				"comp",
+				"companies"
+			],
+			[
+				"Lexi",
+				"LexisNexisClient"
+			],
+			[
+				"sc",
+				"scenario"
+			],
+			[
+				"alert_",
+				"alert_id"
+			],
+			[
+				"exc",
+				"excluded"
+			],
+			[
+				"exclu",
+				"excluded_portfolios"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"staging",
+				"staging_suffix"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"real",
+				"real_time_screening"
+			],
+			[
+				"sare",
+				"shared_search"
+			],
+			[
+				"kap",
+				"kap_id"
+			],
+			[
+				"media",
+				"media_array"
+			],
+			[
+				"medi",
+				"media_array"
+			],
+			[
+				"med",
+				"media_array"
+			],
+			[
+				"mat",
+				"match_list"
+			],
+			[
+				"a",
+				"authData"
+			],
+			[
+				"ad",
+				"addressLine"
+			],
+			[
+				"ath",
+				"authenticate_result"
+			],
+			[
+				"res",
+				"result_data"
+			],
+			[
+				"scree",
+				"screening_completed"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"rese",
+				"resetCheckBox"
+			],
+			[
+				"templ",
+				"templateData"
+			],
+			[
+				"fina",
+				"final_address"
+			],
+			[
+				"repo",
+				"response"
+			],
+			[
+				"pick",
+				"picklist_entries"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"lexi",
+				"lexis_sactions"
+			],
+			[
+				"scre",
+				"screening_types"
+			],
+			[
+				"ver",
+				"vertical_okyc_latest"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/components/home.js",
+			"settings":
+			{
+				"buffer_size": 667,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/books.js",
+			"settings":
+			{
+				"buffer_size": 109,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n",
+			"settings":
+			{
+				"buffer_size": 1688,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/components/about.js",
+			"settings":
+			{
+				"buffer_size": 463,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 616,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/page_not_found.js",
+			"settings":
+			{
+				"buffer_size": 365,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import React from  'react'"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insert",
+				"Import Helper: Insert import"
+			],
+			[
+				"import",
+				"Import Helper: Insert import"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"update ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"format ",
+				"JsPrettier: Format Code"
+			],
+			[
+				"pretetr",
+				"JsPrettier: Format Code"
+			],
+			[
+				"pre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"markdowncode",
+				"Snippet: Markdown Codeblock"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownpreove",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"markdownpreview",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"copyfil",
+				"Copy Filepath With Line Numbers"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"bab",
+				"Babel Transform"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"js",
+				"Build With: JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"rub",
+				"RuboCop: Auto correct current file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shan.paul/hops/library",
+		"/home/shan.paul/hops/library/src",
+		"/home/shan.paul/hops/library/src/components"
+	],
+	"file_history":
+	[
+		"/home/shan.paul/hops/library/src/components/about.js",
+		"/home/shan.paul/hops/library/public/index.html",
+		"/home/shan.paul/.config/sublime-text-3/Packages/User/JsPrettier.sublime-settings",
+		"/home/shan.paul/.config/sublime-text-3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/home/shan.paul/hops/library/src/App.css",
+		"/home/shan.paul/hops/library/src/App.js",
+		"/home/shan.paul/hops/library/src/index.js",
+		"/home/shan.paul/hops/library/src/index.css",
+		"/home/shan.paul/hops/library/src/components/home.js",
+		"/home/shan.paul/hops/library/library.sublime-project",
+		"/home/shan.paul/hops/adviewer/src/store/store.js",
+		"/home/shan.paul/hops/adviewer/src/components/TopMenu.js",
+		"/home/shan.paul/hops/adviewer/src/components/dashboard.js",
+		"/home/shan.paul/hops/adviewer/src/store/index.js",
+		"/home/shan.paul/hops/adviewer/README.md",
+		"/home/shan.paul/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/shan.paul/hops/adviewer/notes.md",
+		"/home/shan.paul/.config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/shan.paul/.config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/shan.paul/.config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/home/shan.paul/.config/sublime-text-3/Packages/User/MultiMarkdown.sublime-settings",
+		"/home/shan.paul/hops/adviewer/node_modules/jest-util/build/installCommonGlobals.js",
+		"/home/shan.paul/hops/adviewer/src/components/Signin.js",
+		"/home/shan.paul/hops/adviewer/src/helpers/auth.js",
+		"/home/shan.paul/hops/adviewer/src/reducers/index.js",
+		"/home/shan.paul/hops/adviewer/src/App.js",
+		"/home/shan.paul/hops/adviewer/src/helpers/private_route.js",
+		"/home/shan.paul/hops/adviewer/src/actions/index.js",
+		"/home/shan.paul/hops/adviewer/src/reducers/signin_reducer.js",
+		"/home/shan.paul/hops/adviewer/src/containers/signin_form.js",
+		"/home/shan.paul/hops/adviewer/src/routes.js",
+		"/home/shan.paul/hops/adviewer/src/reducers/signup_reducer.js",
+		"/home/shan.paul/hops/adviewer/src/components/Signup.js",
+		"/home/shan.paul/hops/adviewer/src/containers/signup_form.js",
+		"/home/shan.paul/hops/adviewer/src/containers/dashboard.js",
+		"/home/shan.paul/hops/adviewer/src/constants/action_types.js",
+		"/home/shan.paul/hops/adviewer/adviewer.sublime-project",
+		"/home/shan.paul/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/shan.paul/experian_projects/apmlive_app/app/controllers/commercial/reports_controller.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/normalisers/lexis_nexis_raw_normaliser.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/lib/apm_service/api/response.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/apm_service/api/request.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/apm_service/api/response.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/apm_service/api.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/services/retail/report_api_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/services/concerns/retail_core_report_api.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/services/retail/report_api.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/digital_access_risk.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/features/people_searches/retail_search_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/digital_access_risk_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/services/commercial/report_api_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/digital_access_risk_collection.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/digital_access_risk_collection_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/retail_core/reports/_deal_information.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/retail_core/reports/show.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/features/retail_report_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/config/routes.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/features/report_edit_session/commercial/matching_messages_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/support/capybara.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/config/secrets.yml",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/concerns/screening_functions.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/controllers/document_images_controller.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/services/wealth/report_api.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/retail_metadata.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/commercial_metadata.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/commercial/report_session/red_flags_item_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/assets/javascripts/report/views/vertical_okyc_row.js",
+		"/home/shan.paul/experian_projects/apmlive_app/app/assets/javascripts/report/views/vertical_okyc.js",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/commercial/reports/_apml_app.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/features/report_edit_session/commercial/vertical_okyc_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/assets/javascripts/report/models/vertical_okyc.js",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/commercial/reports/vertical_okyc/_discounted_alerts.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/assets/javascripts/report/views/popovers.js",
+		"/home/shan.paul/experian_projects/apmlive_app/app/assets/javascripts/report/views/risks.js",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/commercial/reports/vertical_okyc/_summary.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/build/criteria/commercial/conf/data-config.xml",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/features/report_edit_session/commercial/risk_discounting_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/commercial/reports/vertical_okyc/_risk_section.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/commercial/reports/vertical_okyc/_discounted_rationale.html.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/assets/javascripts/report/collections/vertical_okyc.js",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/retail/report_edit_session_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/concerns/retail_core_report_edit_session.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/commercial/report.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/commercial/report_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/commercial/report_edit_session_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/users.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/unlink_satellite_match.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/metadata/commercial/report_metadata.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/concerns/red_flags_item_mapping.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/metadata/wealth/report_metadata.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/db/migrate/20191004091509_add_risk_id_to_c_mapping_red_flags_reason.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/db/migrate/20170624130308_create_c_mapping_red_flags_reason.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/decorators/risk_metadata_retail_config.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/retail/report_session/red_flags_item.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/metadata/concerns/metadata_finder.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/metadata/retail/report_metadata.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/report.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/models/concerns/screening_functions_shared.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/retail_reports.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/report_edit_sessions.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/factories/report_override.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/generators/lookup_api_configs/templates/retail.yml.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/spec/controllers/commercial/reports_controller_spec.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/commercial/rematch_action.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/report_edit_session_base.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/commercial/report_edit_session.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/generators/lookup_api_configs/templates/commercial.yml.erb",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/generators/criteria_api_configs/configs/commercial.yml",
+		"/home/shan.paul/experian_projects/apmlive_app/lib/generators/criteria_api_configs/configs/retail.yml",
+		"/home/shan.paul/se_data.json.csv",
+		"/home/shan.paul/se_data.json",
+		"/home/shan.paul/SCREENING_ENHANCERS_3data.json",
+		"/home/shan.paul/SCREENING_ENHANCERS_201909301426.json",
+		"/home/shan.paul/SCREENING_ENHANCERS_201909301435.json",
+		"/home/shan.paul/SCREENING_ENHANCERS_201909301423.sql",
+		"/home/shan.paul/hops/adviewer/src/Adviewer.sublime-project",
+		"/home/shan.paul/experian_projects/apmlive_app/build/criteria/retail_ref/conf/data-config.xml",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/enhancers/risk_enhancer.rb",
+		"/home/shan.paul/Downloads/sublimehq-rpm-pub.gpg",
+		"/home/shan.paul/experian_projects/apmlive_app/app/constructors/lexis_nexis_request_constructor.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/config/initializers/data_source_configs.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/config/database.yml",
+		"/home/shan.paul/experian_projects/apmlive_app/app/models/commercial/report_session/red_flags_item.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/services/commercial/score_engine_api.rb",
+		"/home/shan.paul/Desktop/111111.xml",
+		"/home/shan.paul/experian_projects/apmlive_app/build/criteria/wealth/conf/data-config.xml",
+		"/home/shan.paul/experian_projects/apmlive_app/app/controllers/concerns/lexis_nexis_requests.rb",
+		"/home/shan.paul/experian_projects/apmlive_app/app/views/shared/reports/_apm_risk_rating.html.erb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/components/home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/books.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1688,
+								1688
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/about.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/page_not_found.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import React from  'react'",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "library.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"report_api_spec.rb",
+				"spec/services/retail/report_api_spec.rb"
+			],
+			[
+				"digital_access_risk_spec.rb",
+				"spec/models/digital_access_risk_spec.rb"
+			],
+			[
+				"digital_access_risk_collection.rb",
+				"app/models/digital_access_risk_collection.rb"
+			],
+			[
+				"digital_access_risk_collection_spec.rb",
+				"spec/models/digital_access_risk_collection_spec.rb"
+			],
+			[
+				"retail_report_",
+				"spec/features/retail_report_spec.rb"
+			],
+			[
+				"matching",
+				"spec/features/report_edit_session/commercial/matching_messages_spec.rb"
+			],
+			[
+				"messages",
+				"spec/features/report_edit_session/commercial/matching_messages_spec.rb"
+			],
+			[
+				"eport_edit_session_spec",
+				"spec/models/retail/report_edit_session_spec.rb"
+			],
+			[
+				"retail_core_report_edit_session.rb",
+				"app/models/concerns/retail_core_report_edit_session.rb"
+			],
+			[
+				"report",
+				"app/models/commercial/report.rb"
+			],
+			[
+				"handle",
+				"app/models/enhancers/handle_red_flags.rb"
+			],
+			[
+				"lexis_nexis",
+				"app/constructors/lexis_nexis_request_constructor.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"screening",
+				"spec/factories/screening_enhancer.rb"
+			],
+			[
+				"_cra_risk_criteria.html.erb",
+				"app/views/retail_core/reports/_cra_risk_criteria.html.erb"
+			],
+			[
+				"red_flag_spec",
+				"spec/features/report_edit_session/retail/red_flag_spec.rb"
+			],
+			[
+				"etail_core_report_edit_session.rb",
+				"app/models/concerns/retail_core_report_edit_session.rb"
+			],
+			[
+				"report_\t",
+				"app/helpers/report_helper.rb"
+			],
+			[
+				"scree",
+				"app/models/concerns/screening_functions.rb"
+			],
+			[
+				"reportEditSessionContext",
+				"app/controllers/commercial/report_edit_session_contexts_controller.rb"
+			],
+			[
+				"red_flags",
+				"app/models/concerns/red_flags_item_mapping.rb"
+			],
+			[
+				"product_risk_ite",
+				"app/models/commercial/report_session/product_risks_item.rb"
+			],
+			[
+				"product_risk_it",
+				"app/models/commercial/report_session/product_risks_item.rb"
+			],
+			[
+				"risk_tab",
+				"app/assets/javascripts/report/views/risk_tables.js"
+			],
+			[
+				"risk_ro",
+				"app/views/shared/reports/risk_table_templates/_risk_row.html.erb"
+			],
+			[
+				"risk_table",
+				"app/views/shared/reports/risk_table_templates/_risk_table.html.erb"
+			],
+			[
+				"template",
+				"app/views/shared/reports/_risk_table_templates.html.erb"
+			],
+			[
+				"report_deco",
+				"app/decorators/retail/report_decorator.rb"
+			],
+			[
+				"deal",
+				"app/views/retail_core/reports/_deal_information.html.erb"
+			],
+			[
+				"people search con",
+				"app/controllers/people_search_controller.rb"
+			],
+			[
+				"risk_tem",
+				"app/views/shared/reports/_risk_table_templates.html.erb"
+			],
+			[
+				"risk_template",
+				"app/views/shared/reports/risk_table_templates/_risk_row.html.erb"
+			],
+			[
+				"risk_temp",
+				"app/views/shared/reports/_risk_table_templates.html.erb"
+			],
+			[
+				"red_flag",
+				"app/views/shared/reports/_red_flags.html.erb"
+			],
+			[
+				"risk_row",
+				"app/views/shared/reports/risk_table_templates/_risk_row.html.erb"
+			],
+			[
+				"risk.js",
+				"app/assets/javascripts/report/views/risks.js"
+			],
+			[
+				"risk_t",
+				"app/metadata/shared/report_metadata/geography_risk_type.rb"
+			],
+			[
+				"row_te",
+				"app/views/shared/reports/edit_risk_templates/_edit_row_form_templates.html.erb"
+			],
+			[
+				"product_risk.html",
+				"app/views/shared/reports/_product_risk.html.erb"
+			],
+			[
+				"screening_fun",
+				"app/models/concerns/screening_functions.rb"
+			],
+			[
+				"lexis_secion",
+				"app/views/shared/reports/_lexis_section_table.html.erb"
+			],
+			[
+				"lexis_sec",
+				"app/views/shared/reports/_lexis_section.html.erb"
+			],
+			[
+				"user_authr",
+				"spec/features/user_authentication_spec.rb"
+			],
+			[
+				"spec basic",
+				"spec/metadata/basic_metadata_spec.rb"
+			],
+			[
+				"concers lexis",
+				"app/controllers/concerns/lexis_nexis_requests.rb"
+			],
+			[
+				"lexis_nexis_re",
+				"app/services/lexis_nexis_request_handler.rb"
+			],
+			[
+				"basic_med",
+				"spec/metadata/basic_metadata_spec.rb"
+			],
+			[
+				"spec lexis",
+				"spec/features/report_edit_session/commercial/lexis_nexis_spec.rb"
+			],
+			[
+				"norma",
+				"app/normalisers/lexis_nexis_raw_normaliser.rb"
+			],
+			[
+				"svs",
+				"spec/features/report_edit_session/commercial/scoring_validation_spec.rb"
+			],
+			[
+				"verticalokycla",
+				"app/models/commercial/report_session/vertical_okyc_latest_item.rb"
+			],
+			[
+				"summary",
+				"app/views/commercial/reports/vertical_okyc/_summary.html.erb"
+			],
+			[
+				"_risk_ro",
+				"app/views/shared/reports/risk_table_templates/_risk_row.html.erb"
+			],
+			[
+				"_pop",
+				"app/views/shared/reports/risk_table_templates/_popover_switch_off_comment.html.erb"
+			],
+			[
+				"_row",
+				"app/views/commercial/criteria_searches/_result_row.html.erb"
+			],
+			[
+				"_summ",
+				"app/views/commercial/reports/vertical_okyc/_summary.html.erb"
+			],
+			[
+				"",
+				"app/views/commercial/reports/_general.html.erb"
+			],
+			[
+				"kap_individual_verification.rb",
+				"app/models/enhancers/kap_individual_verification.rb"
+			],
+			[
+				"criteria",
+				"app/models/criteria_search.rb"
+			],
+			[
+				"generator",
+				"app/models/concerns/generator_xlsx.rb"
+			],
+			[
+				"geograpyrisks",
+				"app/models/wealth/report_session/geography_risks_item.rb"
+			],
+			[
+				"geograp",
+				"app/models/wealth/report_session/geography_risks_item.rb"
+			],
+			[
+				"user_c",
+				"app/controllers/user_controller.rb"
+			],
+			[
+				"rd",
+				"app/decorators/commercial/report_decorator.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 732.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
